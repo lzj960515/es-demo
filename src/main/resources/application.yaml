@@ -2,9 +2,9 @@ spring:
   elasticsearch:
     rest:
       uris:
-        - 122.9.35.11:19200
+        - 192.168.65.206:9200
       username: elastic
-      password: kqinfo@elastic*2022
+      password: elastic
 
 logging:
   level:
